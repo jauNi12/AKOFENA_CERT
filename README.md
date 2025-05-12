@@ -1,4 +1,4 @@
 # AKOFENA_CERT
 
-Cliquez sur RAW et téléchargez la vidéo illustrant le fonctionnement du prototype.
+Cliquez sur VIEW RAW et téléchargez la vidéo illustrant le fonctionnement du prototype.
 
